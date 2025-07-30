@@ -1,0 +1,83 @@
+[
+{
+  "name": "SPOTIT GLASSES",
+  "desc": "Spot It Glasses is a pair of smart reading glasses equipped with a built-in camera. It captures images upon touch and sends them to a mobile companion application.",
+  "image": "spotit",
+  "category": "IOT",
+  "links": {
+    "view": "https://drive.google.com/file/d/1p4zNQ61A_Mql3dD-d6MSxLLQuYeD1Nmf/view?usp=sharing",
+    "code": "https://github.com/akshaykumar059004/Spot-It-Smart-Reading-Glasses"
+  }
+},
+  {
+    "name": "AI-Enhanced-Water-Footprint-App",
+    "desc": "An Android application that helps users calculate the water footprint of fruits and vegetables using text input, image recognition and a built-in database or AI.",
+    "image": "waterfoot print",
+    "category": "Android App",
+    "links": {
+      "view": "https://drive.google.com/file/d/1KGIqza-OtoDejffH4GLlXNSplMAqBAWV/view?usp=sharing",
+      "code": "https://github.com/Churchill427/AI-Enhanced-Water-Footprint-App?tab=readme-ov-file#-screenshots"
+    }
+  },
+  {
+    "name": "IMAGE RETRIVER APP",
+    "desc": "An Android app that fetches and displays images from URLs using Retrofit and Glide.",
+    "image": "image",
+    "category": "Android App",
+    "links": {
+      "view": "https://drive.google.com/file/d/16frvvGriTft-eg-DhiqXUqdUBQQjgrco/view?usp=sharing",
+      "code": "https://github.com/Churchill427/http_image_retriver"
+    }
+  },
+  {
+    "name": "OCR MODULE APP",
+    "desc": "An Android application that uses Optical Character Recognition (OCR) to extract and convert text from images into editable digital text.",
+    "image": "ocr",
+    "category": "Android App",
+    "links": {
+      "view": "https://drive.google.com/file/d/1-EfPxOEjmSHy-piCsXQrVbxnH4NMFtlT/view?usp=sharing",
+      "code": "https://github.com/Churchill427/spotit-ocr-module"
+    }
+  },
+  {
+    "name": "PRADAN DIGITALIZATION",
+    "desc": "A solution that transforms traditional paper-based forms into digital formats, enabling easier data entry, storage, and access through a mobile or web application.",
+    "image": "pradan",
+    "category": "WEB APP",
+    "links": {
+      "view": "https://github.com/jigar-sable/Flipkart-Clone-PHP",
+      "code": "https://github.com/pradanvirudhunagar/pradan_forms_processing_system_backend"
+    }
+  },
+  {
+    "name": "Design Thinking",
+    "desc": "Design Thinking is a human-centered, iterative approach to problem-solving that emphasizes empathy, creativity, and experimentation .",
+    "image": "dt",
+    "category": "Mural",
+    "links": {
+      "view": "https://drive.google.com/file/d/1tAYAkWS8xT04dHJDZ6sEJYu6d7Cfl32j/view?usp=sharing",
+      "code": "https://github.com/Churchill427/Design-thinking-"
+    }
+  },
+  
+  {
+    "name": "KIA Info Website",
+    "desc": "Basic KIA webpage displays the info about seltos product range. Specs and Image Gallery.",
+    "image": "kiaweb",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "FINAL PROJECT",
+    "desc": "On Casting.",
+    "image": "final",
+    "category": "AI",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  }
+]

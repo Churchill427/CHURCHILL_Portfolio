@@ -1,0 +1,78 @@
+[
+    {
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+    },
+    {
+        "name": "Java",
+        "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
+    },
+    {
+        "name": "Android",
+        "icon": "https://img.icons8.com/fluency/48/000000/android-os.png"
+    },
+    {
+        "name": "ReactNative",
+        "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"
+    },
+    {
+        "name": "HTML5",
+        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+    },
+    {
+        "name": "CSS3",
+        "icon": "https://img.icons8.com/color/48/000000/css3.png"
+    },
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
+    },
+    {
+        "name": "C++",
+        "icon": "https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"
+    },
+    {
+        "name": "C",
+        "icon": "https://img.icons8.com/?size=100&id=shQTXiDQiQVR&format=png&color=000000"
+    },
+    {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+    },
+    {
+        "name": "TypeScript",
+        "icon": "https://img.icons8.com/?size=100&id=q8l2X20yd72l&format=png&color=000000"
+    },
+    {
+        "name": "Java XML",
+        "icon": "https://img.icons8.com/?size=100&id=13396&format=png&color=000000"
+    },
+    {
+        "name":"Power BI",
+        "icon":"https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000"
+    },
+    {
+        "name":"AndroidStudio",
+        "icon":"https://img.icons8.com/?size=100&id=EgOU93v1DHjU&format=png&color=000000"
+    },
+    {
+        "name":"Figma",
+        "icon":"https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000"
+    },
+    {
+        "name":"IBM SPSS",
+        "icon":"https://img.icons8.com/?size=100&id=69456&format=png&color=000000"
+    },
+    {
+        "name":"Expo",
+        "icon":"https://img.icons8.com/?size=100&id=hmieDPifBlBM&format=png&color=000000"
+    },
+    {
+        "name":"Git",
+        "icon":"https://img.icons8.com/?size=100&id=20906&format=png&color=000000"
+    },
+    {
+        "name":"TensorFlow",
+        "icon":"https://img.icons8.com/?size=100&id=n3QRpDA7KZ7P&format=png&color=000000"
+    }
+]
